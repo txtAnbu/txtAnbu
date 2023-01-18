@@ -1,6 +1,5 @@
 ### Hi there 👋
-Hello, welcome to my Story, you can call me X4nbu and this is my Anonymous name
-
+Hello, welcome to my Repo, you can call me X4nbu
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/5tdpB5x3FzD3iNcLgh/giphy.gif" width="250"/>
     <br>
